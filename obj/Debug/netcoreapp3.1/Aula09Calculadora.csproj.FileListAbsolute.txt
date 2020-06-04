@@ -1,0 +1,13 @@
+C:\Users\cristina dias\Desktop\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.exe
+C:\Users\cristina dias\Desktop\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.deps.json
+C:\Users\cristina dias\Desktop\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.runtimeconfig.json
+C:\Users\cristina dias\Desktop\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.runtimeconfig.dev.json
+C:\Users\cristina dias\Desktop\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.dll
+C:\Users\cristina dias\Desktop\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.pdb
+C:\Users\cristina dias\Desktop\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.csprojAssemblyReference.cache
+C:\Users\cristina dias\Desktop\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\cristina dias\Desktop\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.AssemblyInfoInputs.cache
+C:\Users\cristina dias\Desktop\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.AssemblyInfo.cs
+C:\Users\cristina dias\Desktop\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.dll
+C:\Users\cristina dias\Desktop\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.pdb
+C:\Users\cristina dias\Desktop\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.genruntimeconfig.cache
